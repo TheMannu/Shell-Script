@@ -48,4 +48,4 @@ else
 fi
 ```
 
-Checks if the user already exists and exits if they do
+Checks if the user already exists

@@ -168,5 +168,3 @@ echo "###############################################"
 - **Keep scripts up-to-date**: As commands and network utilities evolve, periodically review the script to ensure compatibility with the latest system tools.
 
 ---
-
-This script is a **powerful tool** for quickly accessing **VI/VIM** and **networking command references** and executing helpful network-related commands. 
